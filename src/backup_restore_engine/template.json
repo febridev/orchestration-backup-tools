@@ -1,0 +1,36 @@
+[
+    { 
+      "msg_type": "failed",
+      "team": "dba",
+      "space_url": "https://chat.googleapis.com/v1/spaces/AAAAikW4_sI/messages?key=AIzaSyDdI0hCZtE6vySjMm-WEfRq3CPzqKqqsHI&token=45--VdUFPgdJKso9Ia4d5VnSkkK-FWUIolIVixByraE",
+      "header_message": "Daily Backup Restoration Drills Engine",
+      "body_type": "Warning",
+      "body_message": "Some Process failure detected. The process requires troubleshooting.",
+      "footer_message": "Please Check Process On Table `tthjob` and `ttdjob`",
+      "mention_all": "yes"
+    },
+    { 
+      "msg_type": "success",
+      "team": "dba",
+      "space_url": "https://chat.googleapis.com/v1/spaces/AAAAikW4_sI/messages?key=AIzaSyDdI0hCZtE6vySjMm-WEfRq3CPzqKqqsHI&token=45--VdUFPgdJKso9Ia4d5VnSkkK-FWUIolIVixByraE",
+      "header_message": "Daily Backup Restoration Drills Engine",
+      "body_type": "Success",
+      "body_message": "This proces completed successfully without any errors.",
+      "footer_message": "Final Log is Available On `tbackup_log`",
+      "mention_all": "no"
+    },
+    {
+      "msg_type": "wip",
+      "team": "dba",
+      "space_url": "https://chat.googleapis.com/v1/spaces/AAAAikW4_sI/messages?key=AIzaSyDdI0hCZtE6vySjMm-WEfRq3CPzqKqqsHI&token=45--VdUFPgdJKso9Ia4d5VnSkkK-FWUIolIVixByraE",
+      "header_message": "Daily Backup Restoration Drills Engine",
+      "body_type": "In Progress",
+      "body_message": "This step is currently running. Please wait for completion",
+      "footer_message": "Final Log is Available On `tbackup_log`",
+      "mention_all": "no"
+
+    }
+
+  ]
+
+

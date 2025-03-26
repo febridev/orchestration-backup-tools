@@ -1,0 +1,29 @@
+[project]
+name = "backup_restore_engine"
+version = "0.1.0"
+description = "Backup and Restore Engine"
+authors = [
+    {name = "febriyant abidin", email = "febriyant.abidin@aladinbank.id"},
+]
+dependencies = [
+    "hvac>=2.3.0",
+    "python-dotenv>=1.0.1",
+    "mysql-connector-python>=9.0.0",
+    "sqlalchemy>=2.0.32",
+    "pycryptodome>=3.20.0",
+    "croniter>=3.0.3",
+    "httplib2>=0.22.0",
+    "psycopg2>=2.9.9",
+    "psycopg>=3.2.3",
+]
+requires-python = ">=3.12"
+readme = "README.md"
+license = {text = "MIT"}
+
+[build-system]
+requires = ["pdm-backend"]
+build-backend = "pdm.backend"
+
+
+[tool.pdm]
+distribution = true

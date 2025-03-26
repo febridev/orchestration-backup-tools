@@ -1,0 +1,30 @@
+gcs_bucket_archive
+  project
+    platformbanking
+      2024
+        08
+          20240808
+            20240808_tb_user
+            20240808_tb_transaction
+          20240810
+            20240810_tb_user
+            20240810_tb_transaction
+        09
+        10
+    qris
+      2024
+        08
+          20240808
+            20240808_db_qris
+          20240810
+            20240810_db_qris
+        09
+        10
+    baas
+      2024
+        08
+          20240810
+            20240810_db_baas
+        09
+        10
+
