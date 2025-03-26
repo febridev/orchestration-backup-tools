@@ -2,7 +2,7 @@
     { 
       "msg_type": "failed",
       "team": "dba",
-      "space_url": "https://chat.googleapis.com/v1/spaces/AAAAikW4_sI/messages?key=AIzaSyDdI0hCZtE6vySjMm-WEfRq3CPzqKqqsHI&token=45--VdUFPgdJKso9Ia4d5VnSkkK-FWUIolIVixByraE",
+      "space_url": "",
       "header_message": "Daily Backup Restoration Drills Engine",
       "body_type": "Warning",
       "body_message": "Some Process failure detected. The process requires troubleshooting.",
@@ -12,7 +12,7 @@
     { 
       "msg_type": "success",
       "team": "dba",
-      "space_url": "https://chat.googleapis.com/v1/spaces/AAAAikW4_sI/messages?key=AIzaSyDdI0hCZtE6vySjMm-WEfRq3CPzqKqqsHI&token=45--VdUFPgdJKso9Ia4d5VnSkkK-FWUIolIVixByraE",
+      "space_url": "",
       "header_message": "Daily Backup Restoration Drills Engine",
       "body_type": "Success",
       "body_message": "This proces completed successfully without any errors.",
@@ -22,7 +22,7 @@
     {
       "msg_type": "wip",
       "team": "dba",
-      "space_url": "https://chat.googleapis.com/v1/spaces/AAAAikW4_sI/messages?key=AIzaSyDdI0hCZtE6vySjMm-WEfRq3CPzqKqqsHI&token=45--VdUFPgdJKso9Ia4d5VnSkkK-FWUIolIVixByraE",
+      "space_url": "",
       "header_message": "Daily Backup Restoration Drills Engine",
       "body_type": "In Progress",
       "body_message": "This step is currently running. Please wait for completion",
